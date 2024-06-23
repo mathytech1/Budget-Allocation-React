@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Budget-Allocation-React/static/css/main.85768c17.css",
+    "main.js": "/Budget-Allocation-React/static/js/main.01e51a20.js",
+    "static/js/787.7385fb95.chunk.js": "/Budget-Allocation-React/static/js/787.7385fb95.chunk.js",
+    "index.html": "/Budget-Allocation-React/index.html",
+    "main.85768c17.css.map": "/Budget-Allocation-React/static/css/main.85768c17.css.map",
+    "main.01e51a20.js.map": "/Budget-Allocation-React/static/js/main.01e51a20.js.map",
+    "787.7385fb95.chunk.js.map": "/Budget-Allocation-React/static/js/787.7385fb95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85768c17.css",
+    "static/js/main.01e51a20.js"
+  ]
+}
